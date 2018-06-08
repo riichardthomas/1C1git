@@ -1,0 +1,72 @@
+/* ---- BODY ---- */
+#corps{
+    margin: auto;
+    width: 800px;
+    height: 1000px;
+    background-color: azure;
+    text-align: right;
+    padding-top: 15px 10px;
+}
+
+/* ---- HEADER ---- */
+#corps #header{
+    width: 800px;
+    height: 150px;
+    background-color: cornflowerblue;
+    
+}
+
+
+#corps #inte{
+    text-align: right;
+    padding-top: 15px 10px;
+}
+
+#corps #vente{
+    
+}
+
+#corps #installer{
+    
+}
+
+        /* AVIS */
+#corps #avant{
+    
+}
+
+#corps #inconv{
+    
+}
+
+
+/**/
+#corps #plugins{
+    
+}
+
+        /* CMS */
+#corps #worldpress{
+    
+}
+
+#corps #prestashop{
+    
+}
+
+#corps #joomla{
+    
+}
+
+        /* EXEMPLE */
+#corps #exemples{
+    
+}
+
+/* ---- FOOTER ---- */
+#corps #footer{
+    width: 800px;
+    height: 100px;
+    background-color: dodgerblue;
+}
+
